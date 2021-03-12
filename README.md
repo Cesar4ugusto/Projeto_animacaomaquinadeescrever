@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 ## Este projeto
 
-> Status do Projeto: Em desenvolvimento :heavy_check_mark:
+> Status do Projeto: Concluido :heavy_check_mark:
 
 Demonstra a animação de `Maquina de Escrever` usando tecnologias web: `HTML`, `CSS` e `JavaScript`.
 
