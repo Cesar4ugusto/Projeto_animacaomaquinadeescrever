@@ -14,4 +14,4 @@ Demonstra a animação de `Maquina de Escrever` usando tecnologias web: `HTML`, 
 
 ### Licença
 
-Todos os ativos e código estão sob a [CC0 LICENSE](LICENSE) e são de domínio público, a menos que especificado de outra forma.
+Todos os ativos e código estão sob a [CC0 LICENSE](https://github.com/badges/shields/blob/master/LICENSE) e são de domínio público, a menos que especificado de outra forma.
