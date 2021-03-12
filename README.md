@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/c%C3%A9sar-augusto-aa8143160//)](https://www.linkedin.com/in/c%C3%A9sar-augusto-aa8143160//)
 
 ## Sobre mim
+Olá, me chamo César Augusto.
 Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolvimentode soluções web Front-End e Back-End.
 
 ## Este projeto
